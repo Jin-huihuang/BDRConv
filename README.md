@@ -6,6 +6,7 @@
 <p align="center">
     <img src="assets/BDRConv.jpg" width="100%" />
 </p>
+
 This repository contains an official implementation of **BDRConv** for the NN paper [*Compact CNN module balancing between feature diversity and redundancy*](https://www.sciencedirect.com/science/article/pii/S0893608025003351).
 
 ---
