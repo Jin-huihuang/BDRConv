@@ -1,5 +1,4 @@
 # BDRConv  
----
 👨‍🔬 By Huihuang Zhang, Haigen Hu*, Deming Zhou, Xiaoqin Zhang, Bin Cao
 
 > Feature diversity and redundancy play a crucial role in enhancing a model’s performance, although their effect on network design remains underexplored. Herein, we introduce **BDRConv**, a compact convolutional neural network (CNN) module that establishes a balance between feature diversity and redundancy to generate and retain features with moderate redundancy and high diversity while reducing computational costs. Specifically, input features are divided into a main part and an expansion part. The main part extracts intrinsic and diverse features, while the expansion part enhances diverse information extraction. Experiments on the CIFAR10, ImageNet, and MS COCO datasets demonstrate that BDRConv-equipped networks outperform state-of-the-art methods in accuracy, with significantly lower floating-point operations (FLOPs) and parameters. In addition, **BDRConv** module as a plug-and-play component can easily replace existing convolution modules, offering potential for broader CNN applications.
